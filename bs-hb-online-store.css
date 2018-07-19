@@ -1,0 +1,35 @@
+.navbar-toggle{
+float:left;
+}
+.navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+      border-bottom: 4px solid red;
+    }
+.jumbotron {
+      margin-bottom: 0;
+	  height:180px;
+    }
+
+.jumbotron{
+    background-color:rgba(255, 99, 71, 0.5);
+    border-bottom:4px solid red;
+    }
+
+.margin-bottom{
+margin-bottom:50px;
+}
+footer {
+      background-color: #333;
+      color: white;
+      padding: 15px;
+border-top:4px solid red;
+border-bottom:4px solid red;
+}
+footer a:hover{
+color:red;
+}
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
